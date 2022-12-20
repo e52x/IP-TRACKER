@@ -1,6 +1,6 @@
 # "CODE BY ERICK"
 # "https://github.com/e52x"
-# "FACK You KANG RECODE"
+
 import json
 from urllib import request
 url = "https://ipapi.co/"
